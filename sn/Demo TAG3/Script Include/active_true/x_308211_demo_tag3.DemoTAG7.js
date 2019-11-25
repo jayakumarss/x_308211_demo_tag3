@@ -1,11 +1,11 @@
 /* 
  * Application : Demo TAG3
  * ClassName   : sys_script_include
- * Created On  : 2019-11-25 17:03:48
+ * Created On  : 2019-11-25 17:41:47
  * Created By  : admin
- * Updated On  : 2019-11-25 17:03:53
+ * Updated On  : 2019-11-25 17:41:50
  * Updated By  : admin
- * URL         : /sys_script_include.do?sys_id=9649a89edb910010343f58b3ca9619c0
+ * URL         : /sys_script_include.do?sys_id=8bf1b056dbd10010343f58b3ca961938
  */
 /**
  * Class Description
@@ -14,8 +14,8 @@
  * @author System Administrator [admin]
  * @memberof x_308211_demo_tag3.module:sys_script_include
  */
-var DemoTAG5 = Class.create();
-DemoTAG5.prototype = /** @lends x_308211_demo_tag3.module:sys_script_include.DemoTAG5.prototype */ {
+var DemoTAG7 = Class.create();
+DemoTAG7.prototype = /** @lends x_308211_demo_tag3.module:sys_script_include.DemoTAG7.prototype */ {
     /**
      * Description
      * 
@@ -24,5 +24,5 @@ DemoTAG5.prototype = /** @lends x_308211_demo_tag3.module:sys_script_include.Dem
     initialize: function() {
     },
 
-    type: 'DemoTAG5'
+    type: 'DemoTAG7'
 };
