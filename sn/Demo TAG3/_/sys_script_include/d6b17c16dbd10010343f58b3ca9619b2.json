@@ -1,0 +1,24 @@
+{
+  "access": "package_private",
+  "active": true,
+  "api_name": "x_308211_demo_tag3.DemoTag6",
+  "caller_access": null,
+  "client_callable": false,
+  "description": null,
+  "name": "DemoTag6",
+  "script": {
+    "____see": "sn\\Demo TAG3\\Script Include\\active_true\\x_308211_demo_tag3.DemoTag6.js"
+  },
+  "sys_class_name": "sys_script_include",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-11-25 17:40:41",
+  "sys_id": "d6b17c16dbd10010343f58b3ca9619b2",
+  "sys_mod_count": 1,
+  "sys_name": "DemoTag6",
+  "sys_package": "74c2050ddb154010343f58b3ca9619fa",
+  "sys_policy": "read",
+  "sys_scope": "74c2050ddb154010343f58b3ca9619fa",
+  "sys_update_name": "sys_script_include_d6b17c16dbd10010343f58b3ca9619b2",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-11-25 17:40:44"
+}
