@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2019-11-25 18:40:31">
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2019-11-25 18:44:11">
 <sys_remote_update_set action="INSERT_OR_UPDATE">
 <application display_value="Demo TAG3">74c2050ddb154010343f58b3ca9619fa</application>
 <application_name>Demo TAG3</application_name>
@@ -13,18 +13,78 @@
 <origin_sys_id/>
 <parent display_value=""/>
 <release_date/>
-<remote_base_update_set display_value="Demo TAG3 - 1.0.0">497fb012db150010343f58b3ca9619b3</remote_base_update_set>
+<remote_base_update_set display_value="Demo TAG3 - 1.0.0">f640c912db150010343f58b3ca96199a</remote_base_update_set>
 <remote_parent_id/>
 <remote_sys_id>4bccb05b1e656a436b3d4315f2df59c6</remote_sys_id>
 <state>loaded</state>
 <summary/>
 <sys_class_name>sys_remote_update_set</sys_class_name>
 <sys_created_by>devops</sys_created_by>
-<sys_created_on>2019-11-25 18:40:30</sys_created_on>
-<sys_id>497fb012db150010343f58b3ca9619b3</sys_id>
+<sys_created_on>2019-11-25 18:44:11</sys_created_on>
+<sys_id>f640c912db150010343f58b3ca96199a</sys_id>
 <sys_mod_count>1</sys_mod_count>
 <sys_updated_by>devops</sys_updated_by>
-<sys_updated_on>2019-11-25 18:40:30</sys_updated_on>
+<sys_updated_on>2019-11-25 18:44:11</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Demo TAG3">74c2050ddb154010343f58b3ca9619fa</application>
+<application_name>Demo TAG3</application_name>
+<application_scope>x_308211_demo_tag3</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>Demo TAG3 - 1.0.11</name>
+<origin_sys_id/>
+<parent display_value="Demo TAG3 - 1.0.0">f640c912db150010343f58b3ca96199a</parent>
+<release_date/>
+<remote_base_update_set display_value="Demo TAG3 - 1.0.0">f640c912db150010343f58b3ca96199a</remote_base_update_set>
+<remote_parent_id/>
+<remote_sys_id>587eb85edbd10010343f58b3ca961955</remote_sys_id>
+<state>in_hierarchy</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-11-25 18:44:11</sys_created_on>
+<sys_id>3240c912db150010343f58b3ca96199c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-11-25 18:44:11</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Demo TAG3">74c2050ddb154010343f58b3ca9619fa</application>
+<application_name>Demo TAG3</application_name>
+<application_scope>x_308211_demo_tag3</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>Demo TAG3 - 1.0.12</name>
+<origin_sys_id/>
+<parent display_value="Demo TAG3 - 1.0.0">f640c912db150010343f58b3ca96199a</parent>
+<release_date/>
+<remote_base_update_set display_value="Demo TAG3 - 1.0.0">f640c912db150010343f58b3ca96199a</remote_base_update_set>
+<remote_parent_id/>
+<remote_sys_id>24ae78dedbd10010343f58b3ca96192f</remote_sys_id>
+<state>in_hierarchy</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-11-25 18:44:11</sys_created_on>
+<sys_id>3640c912db150010343f58b3ca96199b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-11-25 18:44:11</sys_updated_on>
 <update_set display_value=""/>
 <update_source display_value=""/>
 <updated/>
@@ -43,20 +103,90 @@
 <origin_sys_id/>
 <parent display_value=""/>
 <release_date/>
-<remote_base_update_set display_value="Demo TAG3 - 1.0.0">497fb012db150010343f58b3ca9619b3</remote_base_update_set>
+<remote_base_update_set display_value="Demo TAG3 - 1.0.0">f640c912db150010343f58b3ca96199a</remote_base_update_set>
 <remote_parent_id/>
 <remote_sys_id>4bccb05b1e656a436b3d4315f2df59c6</remote_sys_id>
 <state>loaded</state>
 <summary/>
 <sys_class_name>sys_remote_update_set</sys_class_name>
 <sys_created_by>devops</sys_created_by>
-<sys_created_on>2019-11-25 18:40:30</sys_created_on>
-<sys_id>497fb012db150010343f58b3ca9619b3</sys_id>
+<sys_created_on>2019-11-25 18:44:11</sys_created_on>
+<sys_id>f640c912db150010343f58b3ca96199a</sys_id>
 <sys_mod_count>1</sys_mod_count>
 <sys_updated_by>devops</sys_updated_by>
-<sys_updated_on>2019-11-25 18:40:30</sys_updated_on>
+<sys_updated_on>2019-11-25 18:44:11</sys_updated_on>
 <update_set display_value=""/>
 <update_source display_value=""/>
 <updated/>
 </sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Demo TAG3">74c2050ddb154010343f58b3ca9619fa</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_include_338eb8dedbd10010343f58b3ca961970</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;active&gt;true&lt;/active&gt;&lt;api_name&gt;x_308211_demo_tag3.TAGTestScript&lt;/api_name&gt;&lt;caller_access/&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;description/&gt;&lt;name&gt;TAGTestScript&lt;/name&gt;&lt;script&gt;&lt;![CDATA[/**
+ * Class Description
+ * 
+ * @class 
+ * @author System Administrator [admin]
+ * @memberof x_308211_demo_tag3.module:sys_script_include
+ */
+var TAGTestScript = Class.create();
+TAGTestScript.prototype = /** @lends x_308211_demo_tag3.module:sys_script_include.TAGTestScript.prototype */ {
+    /**
+     * Description
+     * 
+     * @returns {undefined}
+     */
+    initialize: function() {
+    },
+
+    type: 'TAGTestScript'
+};]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-11-25 18:36:46&lt;/sys_created_on&gt;&lt;sys_id&gt;338eb8dedbd10010343f58b3ca961970&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;TAGTestScript&lt;/sys_name&gt;&lt;sys_package display_value="Demo TAG3" source="x_308211_demo_tag3"&gt;74c2050ddb154010343f58b3ca9619fa&lt;/sys_package&gt;&lt;sys_policy&gt;read&lt;/sys_policy&gt;&lt;sys_scope display_value="Demo TAG3"&gt;74c2050ddb154010343f58b3ca9619fa&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_338eb8dedbd10010343f58b3ca961970&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-11-25 18:36:49&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1694054222</payload_hash>
+<remote_update_set display_value="Demo TAG3 - 1.0.11">3240c912db150010343f58b3ca96199c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-11-25 18:44:11</sys_created_on>
+<sys_id>f240c912db150010343f58b3ca96199c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16ea3da19910000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-11-25 18:44:11</sys_updated_on>
+<table/>
+<target_name>TAGTestScript</target_name>
+<type>Script Include</type>
+<update_domain>global</update_domain>
+<update_guid>4b9ef45eacd10010f16d34d245882518</update_guid>
+<update_guid_history>4b9ef45eacd10010f16d34d245882518:1694054222,129ef8de6cd10010080d83affdb6f702:-85050501</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Demo TAG3">74c2050ddb154010343f58b3ca9619fa</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_client_c8be3cdedbd10010343f58b3ca9619b1</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script_client"&gt;&lt;sys_script_client action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applies_extended&gt;false&lt;/applies_extended&gt;&lt;condition/&gt;&lt;description&gt;Tesat&lt;/description&gt;&lt;field/&gt;&lt;global&gt;true&lt;/global&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;messages/&gt;&lt;name&gt;TAGTestClient&lt;/name&gt;&lt;order/&gt;&lt;script&gt;&lt;![CDATA[alert('test');]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_client&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-11-25 18:37:32&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;c8be3cdedbd10010343f58b3ca9619b1&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;TAGTestClient&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Demo TAG3" source="x_308211_demo_tag3"&gt;74c2050ddb154010343f58b3ca9619fa&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Demo TAG3"&gt;74c2050ddb154010343f58b3ca9619fa&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_client_c8be3cdedbd10010343f58b3ca9619b1&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-11-25 18:37:32&lt;/sys_updated_on&gt;&lt;table/&gt;&lt;type/&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_script_client&gt;&lt;/record_update&gt;</payload>
+<payload_hash>239708916</payload_hash>
+<remote_update_set display_value="Demo TAG3 - 1.0.12">3640c912db150010343f58b3ca96199b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-11-25 18:44:11</sys_created_on>
+<sys_id>f640c912db150010343f58b3ca96199b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16ea3dac1db0000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-11-25 18:44:11</sys_updated_on>
+<table/>
+<target_name>TAGTestClient</target_name>
+<type>Client Script</type>
+<update_domain>global</update_domain>
+<update_guid>adcef8ded2d10010ad3b7aab36978109</update_guid>
+<update_guid_history>adcef8ded2d10010ad3b7aab36978109:239708916</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
 </unload>
