@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "applies_extended": false,
+  "condition": null,
+  "description": "Teswt",
+  "field": null,
+  "global": true,
+  "isolate_script": true,
+  "messages": null,
+  "name": "DemoClient7",
+  "order": null,
+  "script": {
+    "____see": "sn\\Demo TAG3\\Client Script\\{--none--}\\active_true\\DemoClient7.js"
+  },
+  "sys_class_name": "sys_script_client",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-11-25 18:05:45",
+  "sys_id": "f637b45adbd10010343f58b3ca9619e8",
+  "sys_mod_count": 0,
+  "sys_name": "DemoClient7",
+  "sys_package": "74c2050ddb154010343f58b3ca9619fa",
+  "sys_policy": null,
+  "sys_scope": "74c2050ddb154010343f58b3ca9619fa",
+  "sys_update_name": "sys_script_client_f637b45adbd10010343f58b3ca9619e8",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-11-25 18:05:45",
+  "table": null,
+  "type": "onLoad",
+  "ui_type": 10,
+  "view": null
+}
