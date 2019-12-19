@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2019-12-19 19:28:53">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Demo TAG3">74c2050ddb154010343f58b3ca9619fa</application>
+<application_name>Demo TAG3</application_name>
+<application_scope>x_308211_demo_tag3</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Automatically created by CICD Process</description>
+<inserted/>
+<name>Demo TAG3 - 1.0.13</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value="Demo TAG3 - 1.0.13">27a034cedbbd4010343f58b3ca96195d</remote_base_update_set>
+<remote_parent_id/>
+<remote_sys_id>99a0b8cedbbd4010343f58b3ca961978</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-12-19 19:28:52</sys_created_on>
+<sys_id>27a034cedbbd4010343f58b3ca96195d</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-12-19 19:28:52</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Demo TAG3">74c2050ddb154010343f58b3ca9619fa</application>
+<application_name>Demo TAG3</application_name>
+<application_scope>x_308211_demo_tag3</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Automatically created by CICD Process</description>
+<inserted/>
+<name>Demo TAG3 - 1.0.13</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value="Demo TAG3 - 1.0.13">27a034cedbbd4010343f58b3ca96195d</remote_base_update_set>
+<remote_parent_id/>
+<remote_sys_id>99a0b8cedbbd4010343f58b3ca961978</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-12-19 19:28:52</sys_created_on>
+<sys_id>27a034cedbbd4010343f58b3ca96195d</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-12-19 19:28:52</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Demo TAG3">74c2050ddb154010343f58b3ca9619fa</application>
+<application_name>Demo TAG3</application_name>
+<application_scope>x_308211_demo_tag3</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>Demo TAG3 - 1.0.7</name>
+<origin_sys_id/>
+<parent display_value="Demo TAG3 - 1.0.13">27a034cedbbd4010343f58b3ca96195d</parent>
+<release_date/>
+<remote_base_update_set display_value="Demo TAG3 - 1.0.13">27a034cedbbd4010343f58b3ca96195d</remote_base_update_set>
+<remote_parent_id/>
+<remote_sys_id>11177456dbd10010343f58b3ca9619b5</remote_sys_id>
+<state>in_hierarchy</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-12-19 19:28:52</sys_created_on>
+<sys_id>e7a034cedbbd4010343f58b3ca96195e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-12-19 19:28:52</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Demo TAG3">74c2050ddb154010343f58b3ca9619fa</application>
+<application_name>Demo TAG3</application_name>
+<application_scope>x_308211_demo_tag3</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>Demo TAG3 - 1.0.2</name>
+<origin_sys_id/>
+<parent display_value="Demo TAG3 - 1.0.13">27a034cedbbd4010343f58b3ca96195d</parent>
+<release_date/>
+<remote_base_update_set display_value="Demo TAG3 - 1.0.13">27a034cedbbd4010343f58b3ca96195d</remote_base_update_set>
+<remote_parent_id/>
+<remote_sys_id>0221cc12db510010343f58b3ca961963</remote_sys_id>
+<state>in_hierarchy</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-12-19 19:28:52</sys_created_on>
+<sys_id>efa034cedbbd4010343f58b3ca96195d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-12-19 19:28:52</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Demo TAG3">74c2050ddb154010343f58b3ca9619fa</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_client_f637b45adbd10010343f58b3ca9619e8</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script_client"&gt;&lt;sys_script_client action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applies_extended&gt;false&lt;/applies_extended&gt;&lt;condition/&gt;&lt;description&gt;Teswt&lt;/description&gt;&lt;field/&gt;&lt;global&gt;true&lt;/global&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;messages/&gt;&lt;name&gt;DemoClient7&lt;/name&gt;&lt;order/&gt;&lt;script&gt;&lt;![CDATA[function onLoad(){alert('Demo client');}]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_client&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-11-25 18:05:45&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;f637b45adbd10010343f58b3ca9619e8&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;DemoClient7&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Demo TAG3" source="x_308211_demo_tag3"&gt;74c2050ddb154010343f58b3ca9619fa&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Demo TAG3"&gt;74c2050ddb154010343f58b3ca9619fa&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_client_f637b45adbd10010343f58b3ca9619e8&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-11-25 18:05:45&lt;/sys_updated_on&gt;&lt;table/&gt;&lt;type&gt;onLoad&lt;/type&gt;&lt;ui_type&gt;10&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_script_client&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1892030528</payload_hash>
+<remote_update_set display_value="Demo TAG3 - 1.0.7">e7a034cedbbd4010343f58b3ca96195e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-12-19 19:28:52</sys_created_on>
+<sys_id>aba034cedbbd4010343f58b3ca96195e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16ea3bda79d0000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-12-19 19:28:52</sys_updated_on>
+<table/>
+<target_name>DemoClient7</target_name>
+<type>Client Script</type>
+<update_domain>global</update_domain>
+<update_guid>c4873c5ae7d10010817a24c6e4ab4b90</update_guid>
+<update_guid_history>c4873c5ae7d10010817a24c6e4ab4b90:1892030528</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Demo TAG3">74c2050ddb154010343f58b3ca9619fa</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_include_89414052db510010343f58b3ca9619d1</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;active&gt;true&lt;/active&gt;&lt;api_name&gt;x_308211_demo_tag3.DemoTag3Test&lt;/api_name&gt;&lt;caller_access/&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;description/&gt;&lt;name&gt;DemoTag3Test&lt;/name&gt;&lt;script&gt;&lt;![CDATA[/**
+ * Class Description
+ * 
+ * @class 
+ * @author System Administrator [admin]
+ * @memberof x_308211_demo_tag3.module:sys_script_include
+ */
+var DemoTag3Test = Class.create();
+DemoTag3Test.prototype = /** @lends x_308211_demo_tag3.module:sys_script_include.DemoTag3Test.prototype */ {
+    /**
+     * Description
+     * 
+     * @returns {undefined}
+     */
+    initialize: function() {
+    },
+
+    type: 'DemoTag3Test'
+};]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-11-25 14:09:05&lt;/sys_created_on&gt;&lt;sys_id&gt;89414052db510010343f58b3ca9619d1&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;DemoTag3Test&lt;/sys_name&gt;&lt;sys_package display_value="Demo TAG3" source="x_308211_demo_tag3"&gt;74c2050ddb154010343f58b3ca9619fa&lt;/sys_package&gt;&lt;sys_policy&gt;read&lt;/sys_policy&gt;&lt;sys_scope display_value="Demo TAG3"&gt;74c2050ddb154010343f58b3ca9619fa&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_89414052db510010343f58b3ca9619d1&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-11-25 14:09:10&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1678862031</payload_hash>
+<remote_update_set display_value="Demo TAG3 - 1.0.2">efa034cedbbd4010343f58b3ca96195d</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-12-19 19:28:52</sys_created_on>
+<sys_id>a3a034cedbbd4010343f58b3ca96195e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16ea2e50dd20000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-12-19 19:28:52</sys_updated_on>
+<table/>
+<target_name>DemoTag3Test</target_name>
+<type>Script Include</type>
+<update_domain>global</update_domain>
+<update_guid>1251c05219510010588a592f8b6d1d6d</update_guid>
+<update_guid_history>1251c05219510010588a592f8b6d1d6d:-1678862031,095140526d5100102b9bd51ebb991f21:-2132802987</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
